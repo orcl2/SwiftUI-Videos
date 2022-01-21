@@ -11,6 +11,7 @@
 		64B4FD7A278C48F0004B4045 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B4FD79278C48F0004B4045 /* ContentView.swift */; };
 		64B4FD7C278C48F2004B4045 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64B4FD7B278C48F2004B4045 /* Assets.xcassets */; };
 		64B4FD7F278C48F2004B4045 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64B4FD7E278C48F2004B4045 /* Preview Assets.xcassets */; };
+		64B4FD86278C4E49004B4045 /* VideoDatasource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B4FD85278C4E49004B4045 /* VideoDatasource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		64B4FD79278C48F0004B4045 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		64B4FD7B278C48F2004B4045 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64B4FD7E278C48F2004B4045 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		64B4FD85278C4E49004B4045 /* VideoDatasource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDatasource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				64B4FD79278C48F0004B4045 /* ContentView.swift */,
 				64B4FD7B278C48F2004B4045 /* Assets.xcassets */,
 				64B4FD7D278C48F2004B4045 /* Preview Content */,
+				64B4FD85278C4E49004B4045 /* VideoDatasource.swift */,
 			);
 			path = "SwiftUI-Videos";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64B4FD86278C4E49004B4045 /* VideoDatasource.swift in Sources */,
 				64B4FD7A278C48F0004B4045 /* ContentView.swift in Sources */,
 				64B4FD78278C48F0004B4045 /* SwiftUI_VideosApp.swift in Sources */,
 			);
